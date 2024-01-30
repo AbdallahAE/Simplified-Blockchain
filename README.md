@@ -6,4 +6,5 @@ One notable feature is the utilization of Merkle trees to maintain a secure and 
 
 This simplified blockchain prototype aims to illustrate the core principles of decentralized ledger technology, showcasing how transactions are organized, verified, and added to the blockchain using a systematic approach. The use of Merkle trees enhances the security and efficiency of the system, ensuring a reliable and transparent record of transactions within the blockchain.
 
+![blockchain_proj1](https://github.com/AbdallahAE/Simplified-Blockchain/assets/106286861/630c8ce4-6769-4d84-901d-0857a9ca875b)
 ![Screenshot 2024-01-25 194938](https://github.com/AbdallahAE/Simplified-Blockchain/assets/106286861/749fbcb8-1651-4731-b24b-1c450bdfaa33)
